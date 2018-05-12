@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25279
     wikipedia: http://fr.wikipedia.org/wiki/Fleury_de_Chaboulon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25616#Les-Cent-Jours--1-2---13-retour-et-du-r-gne-de-Napol-on-en-1815.
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2008-05-26'
 gutenberg_type: Text
